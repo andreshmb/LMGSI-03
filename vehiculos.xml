@@ -25,6 +25,7 @@
 			<nombre>Alfa Romeo Stelvio Quadrifoglio Verde 2017 2.9 V6 BiTurbo 510CV Q4 Automático
 			</nombre>
 			<velocidad>283
+ km/h
 			</velocidad>
 			<cilindrada>2.891 cc
 			</cilindrada>
@@ -89,6 +90,7 @@
 			<potencia>340 cv
 			</potencia>
 			<co2>
+000
 			</co2>
 			<combustible>Gasolina
 			</combustible>
@@ -267,6 +269,7 @@
 			<consumo>0,00/0,00/0,00 l/100 km
 			</consumo>
 			<co2>
+000
 			</co2>
 			<combustible>Eléctrico
 			</combustible>
@@ -299,6 +302,7 @@
 			<consumo>0,0/0,0/0,0 l/100 km
 			</consumo>
 			<co2>
+000
 			</co2>
 			<combustible>Eléctrico
 			</combustible>
@@ -466,7 +470,7 @@
 			</consumo>
 			<co2>228
 			</co2>
-			<combustible>Gasolina + eléctrico
+			<combustible>Gasolina-Eléctrico
 			</combustible>
 		</modelo>
 	</marca>
@@ -1081,6 +1085,7 @@
 			<consumo>
 			</consumo>
 			<co2>
+000
 			</co2>
 			<combustible>Eléctrico
 			</combustible>
@@ -1214,6 +1219,7 @@
 			<consumo>
 			</consumo>
 			<co2>
+000
 			</co2>
 			<combustible>Eléctrico
 			</combustible>
@@ -1382,6 +1388,7 @@
 			<consumo>
 			</consumo>
 			<co2>
+000
 			</co2>
 			<combustible>Eléctrico
 			</combustible>
@@ -1398,6 +1405,7 @@
 			<consumo>
 			</consumo>
 			<co2>
+000
 			</co2>
 			<combustible>Eléctrico
 			</combustible>
@@ -1483,7 +1491,7 @@
 			</consumo>
 			<co2>39
 			</co2>
-			<combustible>Gasolina-Electrico
+			<combustible>Gasolina-Eléctrico
 			</combustible>
 		</modelo>
 		<modelo nombre="Sharan">
